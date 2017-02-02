@@ -11,7 +11,8 @@
     function MainContoller() {
         var model = this;
         model.text = "";
-        model.toolbarOptions = ["print", "text_format"];
+        model.fileOptions = ["print", "text_format", "perm_media", "image", "link", "format_align_justify"];
+        model.fileEditOptions = ["undo", "redo", "content_cut", "content_copy", "content_paste"];
         model.save = function() {
             model.text;
         };
