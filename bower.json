@@ -1,0 +1,20 @@
+{
+  "name": "mycodelab",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "narottam <narottam@wittyparrot.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/narottam-wittyparrot/mycodelab",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular-material": "^1.1.3"
+  }
+}

@@ -1,0 +1,68 @@
+.drop-down-custom-file {
+    top: 95px !important;
+}
+
+.drop-down-custom-file ._md {
+    margin: 0px;
+    padding: 0px;
+}
+
+.md-input-has-placeholder {
+    color: #ffffff;
+}
+
+.md-select-icon {
+    color: #ffffff;
+}
+
+md-select .md-select-value.md-select-placeholder {
+    color: #ffffff;
+}
+
+md-input-container.md-input-focused:not(.md-input-has-value) md-select .md-select-value.md-select-placeholder {
+    color: #ffffff;
+}
+
+.drop-down-custom-edit {
+    top: 95px !important;
+}
+
+.drop-down-custom-insert {
+    top: 95px !important;
+}
+
+.drop-down-custom-view {
+    top: 95px !important;
+}
+
+.drop-down-custom-format {
+    top: 95px !important;
+}
+
+.reset-margin-padding {
+    padding: 0px;
+    margin: 0px;
+}
+
+.lh-24 {
+    line-height: 24px;
+}
+
+.pad-l-12 {
+    padding-left: 12px;
+}
+
+.color-white {
+    color: #ffffff;
+}
+
+.notes {
+    background-attachment: local;
+    background-image: linear-gradient(to right, white 10px, transparent 10px), linear-gradient(to left, white 10px, transparent 10px), repeating-linear-gradient(white, white 30px, #ccc 30px, #ccc 31px, white 31px);
+    line-height: 31px;
+    padding: 8px 10px;
+}
+
+textarea.ng-invalid {
+    background-color: lightseagreen;
+}
